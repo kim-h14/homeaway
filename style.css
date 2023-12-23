@@ -1,0 +1,25 @@
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+.fa-gem{
+  font-size: 1rem;
+}
+
+/* Stays images */
+
+.cabin {
+  background-image: url('images/luxury-cabin.jpeg');
+  background-position: 10%;
+}
+
+.jungle {
+  background-image: url('images/luxury-jungle.jpeg');
+  background-size: inherit;
+}
+
+.desert {
+  background-image: url('images/luxury-desert.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
