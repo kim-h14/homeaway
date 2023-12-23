@@ -1,9 +1,22 @@
-* {
+.fa-gem{
+  font-size: 1rem;
+}
+
+/* Header */
+
+.nav-bar {
+  color: #7B66FF;
   font-family: 'Raleway', sans-serif;
 }
 
-.fa-gem{
-  font-size: 1rem;
+/* Title */
+.title-img {
+ border-radius: 5%;
+}
+
+.title-big-heading {
+  font-family: 'Raleway', sans-serif;
+  color: #7B66FF;
 }
 
 /* Stays images */
@@ -29,6 +42,8 @@
 .ex-samples {
   display: flex;
   flex-wrap: wrap;
+  margin-top: 55px;
+  margin-bottom: 70px;
 }
 
 .exp {
@@ -38,6 +53,11 @@
 .bd-placeholder-img {
   width: 140px;
   height: 140px;
+  border-radius: 20px;
+}
+
+.exp-titles {
+  padding-top: 20px;
 }
 
 /* Testimonials */
