@@ -23,3 +23,19 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+/* Experiences */
+
+.ex-samples {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.exp {
+  text-align: center;
+}
+
+.bd-placeholder-img {
+  width: 140px;
+  height: 140px;
+}
