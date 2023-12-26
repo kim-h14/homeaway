@@ -1,12 +1,11 @@
-.fa-gem{
-  font-size: 1rem;
+body {
+  font-family: 'Raleway', sans-serif;
 }
 
 /* Header */
-
-.nav-bar {
+.header-logo{
+  font-size: 1rem;
   color: #7B66FF;
-  font-family: 'Raleway', sans-serif;
 }
 
 /* Title */
@@ -15,12 +14,11 @@
 }
 
 .title-big-heading {
-  font-family: 'Raleway', sans-serif;
   color: #7B66FF;
+  font-weight: 700;
 }
 
 /* Stays images */
-
 .cabin {
   background-image: url('images/luxury-cabin.jpeg');
   background-position: 10%;
@@ -60,6 +58,10 @@
   padding-top: 20px;
 }
 
+.details-btn {
+  background-color: #7B66FF;
+}
+
 /* Testimonials */
 
 @media (min-width: 600px) {
@@ -73,4 +75,18 @@
 .endorsement {
   margin-top: 40px;
   margin-bottom: 40px;
+}
+
+.btn-primary {
+  background-color: #7B66FF;
+}
+
+.btn-outline-secondary {
+  color: #7B66FF;
+}
+
+/* Footer */
+
+.fa-brands {
+  color: #7B66FF;
 }
